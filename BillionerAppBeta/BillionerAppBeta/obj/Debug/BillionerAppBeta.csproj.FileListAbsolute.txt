@@ -1,0 +1,12 @@
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\bin\Debug\BillionerAppBeta.exe.config
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\bin\Debug\BillionerAppBeta.exe
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\bin\Debug\BillionerAppBeta.pdb
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\obj\Debug\BillionerAppBeta.csprojResolveAssemblyReference.cache
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\obj\Debug\BillionerAppBeta.exe
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\obj\Debug\BillionerAppBeta.pdb
+C:\Users\Ismayil\Downloads\BillionerAppBetav0.0.1.0.1.0.0-master\BillionerAppBeta\BillionerAppBeta\bin\Debug\BillionerAppBeta.exe.config
+C:\Users\Ismayil\Downloads\BillionerAppBetav0.0.1.0.1.0.0-master\BillionerAppBeta\BillionerAppBeta\bin\Debug\BillionerAppBeta.exe
+C:\Users\Ismayil\Downloads\BillionerAppBetav0.0.1.0.1.0.0-master\BillionerAppBeta\BillionerAppBeta\bin\Debug\BillionerAppBeta.pdb
+C:\Users\Ismayil\Downloads\BillionerAppBetav0.0.1.0.1.0.0-master\BillionerAppBeta\BillionerAppBeta\obj\Debug\BillionerAppBeta.csprojResolveAssemblyReference.cache
+C:\Users\Ismayil\Downloads\BillionerAppBetav0.0.1.0.1.0.0-master\BillionerAppBeta\BillionerAppBeta\obj\Debug\BillionerAppBeta.exe
+C:\Users\Ismayil\Downloads\BillionerAppBetav0.0.1.0.1.0.0-master\BillionerAppBeta\BillionerAppBeta\obj\Debug\BillionerAppBeta.pdb
